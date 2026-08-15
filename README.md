@@ -104,7 +104,7 @@ CodeAlpha_IrisFlowerDetection/
 
 1. Clone the repository
 
-git clone https://github.com/singhnikhil14/CodeAlpha_IrisFlowerDetection.git
+git clone https://github.com/singhnikhil14/CodeAlpha_IrisFlowerClassification.git
 
 2. Open the project
 
